@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/viktor-svirsky/spotify/v2"
-	spotifyauth "github.com/viktor-svirsky/spotify/v2/auth"
+	"github.com/viktor-svirsky/spotify-go/v2"
+	spotifyauth "github.com/viktor-svirsky/spotify-go/v2/auth"
 	"golang.org/x/oauth2/clientcredentials"
 )
 

@@ -10,12 +10,12 @@ package main
 import (
 	"context"
 	"fmt"
-	spotifyauth "github.com/viktor-svirsky/spotify/v2/auth"
+	spotifyauth "github.com/viktor-svirsky/spotify-go/v2/auth"
 	"log"
 	"net/http"
 	"strings"
 
-	"github.com/viktor-svirsky/spotify/v2"
+	"github.com/viktor-svirsky/spotify-go/v2"
 )
 
 // redirectURI is the OAuth redirect URI for the application.
