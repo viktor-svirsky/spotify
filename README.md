@@ -2,7 +2,7 @@
 Spotify
 =======
 
-[![GoDoc](https://godoc.org/github.com/zmb3/spotify?status.svg)](http://godoc.org/github.com/zmb3/spotify)
+[![GoDoc](https://godoc.org/github.com/viktor-svirsky/spotify?status.svg)](http://godoc.org/github.com/viktor-svirsky/spotify)
 
 This is a Go wrapper for working with Spotify's
 [Web API](https://developer.spotify.com/web-api/).
@@ -17,7 +17,7 @@ By using this library you agree to Spotify's
 
 To install the library, simply
 
-`go get github.com/zmb3/spotify/v2`
+`go get github.com/viktor-svirsky/spotify/v2`
 
 ## Authentication
 
