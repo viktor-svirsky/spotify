@@ -89,6 +89,7 @@ type FullAlbum struct {
 	Popularity  int               `json:"popularity"`
 	Tracks      SimpleTrackPage   `json:"tracks"`
 	ExternalIDs map[string]string `json:"external_ids"`
+	Label       string            `json:"label"`
 }
 
 // SavedAlbum provides info about an album saved to an user's account.
